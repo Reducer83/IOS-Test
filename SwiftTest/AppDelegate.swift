@@ -6,6 +6,35 @@
 //  Copyright (c) 2015 Richard Thomson. All rights reserved.
 //
 
+/*
+
+Page Load
+
+Two coins show
+
+"Play Game button"
+
+Title
+
+CLICK PLAY
+
+-Determine Head or tails
+-Display head or tails image
+-If heads Increment number of heads by 1
+-Additional rules
+    -IF 5, show choose alcohol - text box - change display
+    -IF 10, show choose mixer - text box - change display
+    -IF 15, show You are buying + populate buyer - change display
+    -IF 20, show you are drinking
+
+
+Improvements:
+- Enter player name and populate them in messages between goes.
+- Somehow get people to login via phones and play individually
+- Save previous games
+
+*/
+
 import UIKit
 
 @UIApplicationMain
